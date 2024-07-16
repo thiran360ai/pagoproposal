@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pagoproposal/static/css/main.5c234d08.css",
+    "main.js": "/pagoproposal/static/js/main.89f4375b.js",
+    "static/js/453.99774321.chunk.js": "/pagoproposal/static/js/453.99774321.chunk.js",
+    "index.html": "/pagoproposal/index.html",
+    "main.5c234d08.css.map": "/pagoproposal/static/css/main.5c234d08.css.map",
+    "main.89f4375b.js.map": "/pagoproposal/static/js/main.89f4375b.js.map",
+    "453.99774321.chunk.js.map": "/pagoproposal/static/js/453.99774321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c234d08.css",
+    "static/js/main.89f4375b.js"
+  ]
+}
